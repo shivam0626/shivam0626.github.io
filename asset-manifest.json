@@ -1,16 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.328ab46b.js",
+    "main.css": "/static/css/main.9aeb4e63.css",
+    "main.js": "/static/js/main.461d3643.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Jcrew.PNG": "/static/media/Jcrew.1648a992a843a4c92ca7.PNG",
+    "static/media/fundamental.PNG": "/static/media/fundamental.2d59a6b25e8b10bc9063.PNG",
+    "static/media/kimaye.PNG": "/static/media/kimaye.3f91142ad489b09908ad.PNG",
+    "static/media/time-camp.png": "/static/media/time-camp.5369e21d89ae28379b0a.png",
+    "static/media/profile.png": "/static/media/profile.b60409cb80cbff7e61c9.png",
+    "static/media/React-icon.svg.png": "/static/media/React-icon.svg.81ed438b18e24116794d.png",
+    "static/media/Shivam-Maurya-Resume.pdf": "/static/media/Shivam-Maurya-Resume.02f375a5878bf769c5c5.pdf",
+    "static/media/Airgarage.PNG": "/static/media/Airgarage.050ff4a957eb7b3a0739.PNG",
+    "static/media/chakra.png": "/static/media/chakra.6d4684d36d618b85afe2.png",
+    "static/media/redux.jpg": "/static/media/redux.149c7990a54899facb40.jpg",
+    "static/media/dsa.png": "/static/media/dsa.0735e9298636d7e0059d.png",
+    "static/media/CSS3_logo.svg.png": "/static/media/CSS3_logo.svg.1a57e67ac1fd2ea84d64.png",
+    "static/media/JavaScript-logo.png": "/static/media/JavaScript-logo.b14eed1052a420daf9f3.png",
+    "static/media/postman.png": "/static/media/postman.1ba3cc6686c253bd999d.png",
+    "static/media/nodejs-logo.png": "/static/media/nodejs-logo.8e341cc00e4ec40c6a27.png",
+    "static/media/express.png": "/static/media/express.b44f5a4b0ab040328aac.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.328ab46b.js.map": "/static/js/main.328ab46b.js.map",
+    "main.9aeb4e63.css.map": "/static/css/main.9aeb4e63.css.map",
+    "main.461d3643.js.map": "/static/js/main.461d3643.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.328ab46b.js"
+    "static/css/main.9aeb4e63.css",
+    "static/js/main.461d3643.js"
   ]
 }
