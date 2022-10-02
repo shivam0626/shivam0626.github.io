@@ -11,7 +11,7 @@ I am an aspiring full-stack web developer with hands-on experience in developing
 
 ## Skills 
 
-There are some skkilss which I learned during my Full-Stack web development course.
+There are some skills which I learned during my Full-Stack web development course.
  - HTML
  - CSS
  - JavaScrpit
@@ -39,7 +39,7 @@ Here are some projects, which I did during course:
  - Airgarage.com Clone
     https://github.com/shivam0626/Airgarage.com-Clone
  - Kimaye.com  Clone
-    https://github.com/shivam0626/kimaye.com
+    https://github.com/shivam0626/Kimaye.com-Clone
  - TimeCamp Clone
     https://github.com/ssksds/Time-Camp-Clone
     
