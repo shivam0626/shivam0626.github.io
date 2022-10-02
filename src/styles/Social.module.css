@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Pacifico&display=swap');
+.container{
+    color: white;
+    padding: 3rem 0rem;
+    margin-top:3rem;
+    font-family: 'Caveat', cursive;
+    font-size: 2rem;
+}
+.box{
+    margin-top: 1rem;
+    display: flex;
+    gap:3rem;
+    font-size: 3rem;
+    justify-content: center;
+}

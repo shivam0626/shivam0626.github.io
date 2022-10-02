@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Pacifico&display=swap');
+.contact{
+    background-color: #0E3386 ;
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-size: 3rem;
+    text-decoration: underline;
+    color:rgb(12, 232, 232);
+}
+.mainBox{
+    padding: 1.5rem;
+    margin-top: 6rem;
+}

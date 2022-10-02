@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Portfolio 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About me 
 
-## Available Scripts
+Hey I am Shivam Maurya...
 
-In the project directory, you can run:
+I am an aspiring full-stack web developer with hands-on experience in developing user-centric web apps. I did a full-stack web developer course at Masai School, where I learned 1000+ hours of coding. I am looking for an opportunity to enhance my knowledge.
 
-### `npm start`
+![about](https://user-images.githubusercontent.com/101569590/190901478-570f917e-fcfa-4560-990f-7cf142625e32.PNG)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Skills 
 
-### `npm test`
+There are some skkilss which I learned during my Full-Stack web development course.
+ - HTML
+ - CSS
+ - JavaScrpit
+ - ReactJs
+ - MongoDB
+ - NodeJs
+ - Redux
+ - ExpressJS
+ - Github
+ - Chakra UI
+ - JSON Server  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+ 
+ ![skills](https://user-images.githubusercontent.com/101569590/190901488-441c9762-1f40-4671-a44f-5308848cc49c.PNG)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Projects 
+Here are some projects, which I did during course:
+ - Fundamental.in Clone
+    https://github.com/VishalBhuse/Fundamental.in
+ - JCrew.com Clone
+    https://github.com/Prakarshprasar/J.Crew-Clone
+ - Airgarage.com Clone
+    https://github.com/shivam0626/Airgarage.com-Clone
+ - Kimaye.com  Clone
+    https://github.com/shivam0626/kimaye.com
+ - TimeCamp Clone
+    https://github.com/ssksds/Time-Camp-Clone
+    
+    
+![projects](https://user-images.githubusercontent.com/101569590/190901500-61627f63-4b69-4cbf-a0b8-73a1e01310f3.PNG)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contact me on:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ - Linkedin: https://www.linkedin.com/in/shivam-maurya-5131331b6/
+ - Github: https://github.com/shivam0626
+ - Twitter: https://twitter.com/ShivamM96073793
+ - E-mail: shivammaurya7310@gmail.com

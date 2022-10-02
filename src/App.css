@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color:#002147;
+  font-family: 'Caveat Brush', cursive;
 }
 
 .App-logo {
@@ -35,4 +37,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.root{
+  font-family: 'water brush', cursive;
 }
