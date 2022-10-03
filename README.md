@@ -44,7 +44,7 @@ Here are some projects, which I did during course:
     https://github.com/ssksds/Time-Camp-Clone
     
     
-![projects](https://user-images.githubusercontent.com/101569590/190901500-61627f63-4b69-4cbf-a0b8-73a1e01310f3.PNG)
+  ![projects](https://user-images.githubusercontent.com/101569590/193472145-0ba7903a-95e5-402a-a0fc-64c28b7d6a43.PNG)
 
 
 

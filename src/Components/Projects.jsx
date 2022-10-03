@@ -57,7 +57,7 @@ const Projects =()=>{
                     <Text className={styles.text}>Individaul Project</Text>
                     <Text className={styles.text}>Duration: 05 days</Text>
                     <Box p="1rem" >
-                        <a href="https://airgarage.vercel.app/" target="blank" rel="noreferrer"><button className={styles.btn}><FaExternalLinkAlt /></button></a>
+                        <a href="https://airgarage-com-clone.vercel.app/" target="blank" rel="noreferrer"><button className={styles.btn}><FaExternalLinkAlt /></button></a>
                         <a href="https://github.com/shivam0626/Airgarage.com-Clone" target="blank" rel="noreferrer"><button className={styles.btn}><FaGithub /></button></a>
                     </Box>
                 </Box>
