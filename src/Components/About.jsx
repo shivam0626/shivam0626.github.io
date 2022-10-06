@@ -1,7 +1,7 @@
 import { Box, Text, Image, SimpleGrid,} from "@chakra-ui/react"
 import styles from "../styles/About.module.css";
 import profile from "../sources/profile.png";
-import resume from "../sources/Shivam-Maurya-Resume.pdf";
+import resume from "../sources/Shivam-Maurya-Resume-1.pdf";
 
 const Welcome =()=>{
     return(
