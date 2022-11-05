@@ -5,7 +5,7 @@ import styles from "../styles/Contactme.module.css"
 
 export const Contactme = () => {
   return (
-    <Box bg="#0E3386" className={styles.mainBox} id="contact">
+    <Box className={styles.mainBox} id="contact">
     <Container pb="1.5rem"  maxW={"5xl"}>
         <Text className={styles.contact}>Contact me:</Text>
         <SimpleGrid columns={[1,null,2]}>

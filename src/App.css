@@ -1,6 +1,7 @@
 .App {
   text-align: center;
-  background-color:#002147;
+  background-color:#002;
+  /* background-color: darkblue; */
   font-family: 'Caveat Brush', cursive;
 }
 

@@ -7,7 +7,7 @@
     padding-bottom: 1rem;
     border-bottom-right-radius: 1rem;
     border-top-left-radius: 1rem;
-    background-color:#2E5090;
+    border: 3px solid rgb(130, 126, 126);
 }
 .img{
     display: block;
@@ -23,4 +23,7 @@
     margin-bottom: 2rem;
     font-size: 3rem;
     font-family: 'Caveat', cursive;
+}
+.grid{
+    margin: 0rem 4rem;
 }
