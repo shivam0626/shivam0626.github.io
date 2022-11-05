@@ -1,31 +1,39 @@
 {
   "files": {
-    "main.css": "/static/css/main.9aeb4e63.css",
-    "main.js": "/static/js/main.defd6d6f.js",
+    "main.css": "/static/css/main.c4e8fc41.css",
+    "main.js": "/static/js/main.78c59eeb.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Jcrew.PNG": "/static/media/Jcrew.1648a992a843a4c92ca7.PNG",
     "static/media/fundamental.PNG": "/static/media/fundamental.2d59a6b25e8b10bc9063.PNG",
     "static/media/kimaye.PNG": "/static/media/kimaye.3f91142ad489b09908ad.PNG",
     "static/media/time-camp.png": "/static/media/time-camp.5369e21d89ae28379b0a.png",
     "static/media/profile.png": "/static/media/profile.b60409cb80cbff7e61c9.png",
+    "static/media/mongodb.png": "/static/media/mongodb.5b3b1548fc3d3ab2bcbf.png",
     "static/media/React-icon.svg.png": "/static/media/React-icon.svg.81ed438b18e24116794d.png",
     "static/media/Shivam-Maurya-Resume-1.pdf": "/static/media/Shivam-Maurya-Resume-1.1eee61fe22ad521cabdb.pdf",
     "static/media/Airgarage.PNG": "/static/media/Airgarage.050ff4a957eb7b3a0739.PNG",
-    "static/media/chakra.png": "/static/media/chakra.6d4684d36d618b85afe2.png",
-    "static/media/redux.jpg": "/static/media/redux.149c7990a54899facb40.jpg",
+    "static/media/json.png": "/static/media/json.aede29f1285900b31ef1.png",
+    "static/media/express.png": "/static/media/express.cca64e0f360897258ecb.png",
     "static/media/dsa.png": "/static/media/dsa.0735e9298636d7e0059d.png",
+    "static/media/GitHub-Mark.png": "/static/media/GitHub-Mark.553c66159c5672f25df6.png",
     "static/media/CSS3_logo.svg.png": "/static/media/CSS3_logo.svg.1a57e67ac1fd2ea84d64.png",
     "static/media/JavaScript-logo.png": "/static/media/JavaScript-logo.b14eed1052a420daf9f3.png",
     "static/media/postman.png": "/static/media/postman.1ba3cc6686c253bd999d.png",
     "static/media/nodejs-logo.png": "/static/media/nodejs-logo.8e341cc00e4ec40c6a27.png",
-    "static/media/express.png": "/static/media/express.b44f5a4b0ab040328aac.png",
+    "static/media/vs code.png": "/static/media/vs code.aa53b2acfb930d20f7ef.png",
+    "static/media/html.png": "/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/redux.png": "/static/media/redux.b3b939c66aecf7d53967.png",
+    "static/media/redis.png": "/static/media/redis.52a85440d0cb10638fe8.png",
+    "static/media/chakra.webp": "/static/media/chakra.180ec134742b4b54c994.webp",
+    "static/media/typescript-1174965.webp": "/static/media/typescript-1174965.c3bd19569a9c73bb54ba.webp",
+    "static/media/socketio.webp": "/static/media/socketio.e6caa46606ef5d2bd705.webp",
     "index.html": "/index.html",
-    "main.9aeb4e63.css.map": "/static/css/main.9aeb4e63.css.map",
-    "main.defd6d6f.js.map": "/static/js/main.defd6d6f.js.map",
+    "main.c4e8fc41.css.map": "/static/css/main.c4e8fc41.css.map",
+    "main.78c59eeb.js.map": "/static/js/main.78c59eeb.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9aeb4e63.css",
-    "static/js/main.defd6d6f.js"
+    "static/css/main.c4e8fc41.css",
+    "static/js/main.78c59eeb.js"
   ]
 }
