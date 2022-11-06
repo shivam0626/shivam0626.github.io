@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4e8fc41.css",
-    "main.js": "/static/js/main.78c59eeb.js",
+    "main.css": "/static/css/main.6d03e342.css",
+    "main.js": "/static/js/main.9c52292e.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Jcrew.PNG": "/static/media/Jcrew.1648a992a843a4c92ca7.PNG",
     "static/media/fundamental.PNG": "/static/media/fundamental.2d59a6b25e8b10bc9063.PNG",
+    "static/media/coder.png": "/static/media/coder.7fb43721ad994decd58b.png",
     "static/media/kimaye.PNG": "/static/media/kimaye.3f91142ad489b09908ad.PNG",
     "static/media/time-camp.png": "/static/media/time-camp.5369e21d89ae28379b0a.png",
     "static/media/profile.png": "/static/media/profile.b60409cb80cbff7e61c9.png",
     "static/media/mongodb.png": "/static/media/mongodb.5b3b1548fc3d3ab2bcbf.png",
     "static/media/React-icon.svg.png": "/static/media/React-icon.svg.81ed438b18e24116794d.png",
-    "static/media/Shivam-Maurya-Resume-1.pdf": "/static/media/Shivam-Maurya-Resume-1.1eee61fe22ad521cabdb.pdf",
+    "static/media/Shivam-Maurya-Resume.pdf": "/static/media/Shivam-Maurya-Resume.6c758e2512cee0985072.pdf",
     "static/media/Airgarage.PNG": "/static/media/Airgarage.050ff4a957eb7b3a0739.PNG",
     "static/media/json.png": "/static/media/json.aede29f1285900b31ef1.png",
     "static/media/express.png": "/static/media/express.cca64e0f360897258ecb.png",
@@ -28,12 +29,12 @@
     "static/media/typescript-1174965.webp": "/static/media/typescript-1174965.c3bd19569a9c73bb54ba.webp",
     "static/media/socketio.webp": "/static/media/socketio.e6caa46606ef5d2bd705.webp",
     "index.html": "/index.html",
-    "main.c4e8fc41.css.map": "/static/css/main.c4e8fc41.css.map",
-    "main.78c59eeb.js.map": "/static/js/main.78c59eeb.js.map",
+    "main.6d03e342.css.map": "/static/css/main.6d03e342.css.map",
+    "main.9c52292e.js.map": "/static/js/main.9c52292e.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4e8fc41.css",
-    "static/js/main.78c59eeb.js"
+    "static/css/main.6d03e342.css",
+    "static/js/main.9c52292e.js"
   ]
 }
