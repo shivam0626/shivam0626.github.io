@@ -1,6 +1,6 @@
 import React from 'react'
 import { Box, Text } from '@chakra-ui/react'
-import resume from "../sources/Shivam-Maurya-Resume-1.pdf"
+import resume from "../sources/Shivam-Maurya-Resume.pdf"
 import {ImProfile  } from 'react-icons/im';
 import { FaGithub, FaLinkedin,FaTwitter } from 'react-icons/fa';
 import styles from "../styles/Social.module.css";

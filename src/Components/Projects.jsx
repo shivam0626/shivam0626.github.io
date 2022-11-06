@@ -11,8 +11,8 @@ const Projects =()=>{
     return(
         <Box className={styles.p_main} id="projects">
             <Text className={styles.header} size={"xl"}>Projects</Text>
-            <Text>Here are some projects which I have done</Text>
-            <SimpleGrid columns={[1,null,2]} spacing={6} >
+            <Text className={styles.toptext}>These are some projects done by me:</Text>
+            <SimpleGrid m="0rem 3rem" columns={[1,null,2]} spacing={6} >
                 <Box className={styles.p_box}>
                     <Image className={styles.p_img} src={timecamp} alt="p_img" />
                     <Text className={styles.project_title} size={"md"}>TimeCamp Clone</Text>

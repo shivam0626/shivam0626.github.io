@@ -1,44 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Pacifico&display=swap');
 .mainBox{
-    padding-top: 5rem;
-}
-.welcome{
-   text-align: left;
-   margin-top:  8rem;
-   margin-left: 2rem;
-   color:rgb(12, 232, 232);
-   font-size: 4rem;
-   font-family: 'Caveat', cursive;
+    margin: 0rem 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 5rem;
 }
 .para{
-    text-align: left;
+    text-align: center;
+    justify-content: center;
     margin-left: 2rem; 
     color: aliceblue;
     font-size: 1.2rem;
 }
 .img{
-    margin-top: 5rem;
-    height: 60%;
+    height: 100%;
     border-radius: 50%;
+
+    margin-left: 2rem;
 }
 .intro{
     margin-top: 5rem;
     text-decoration: underline;
 }
 .imageBox{
+    height: 20rem;
+    width: 20rem;
     margin-left: auto;
     margin-right: auto;
 }
 .headingBox{
-    margin-left: auto;
-    margin-right: auto;
+    height: auto;
+    margin: auto;
 }
-.resumeBtn{
-    margin-top: 2rem;
-    color: white;
-    padding: 0.5rem 2rem;
-    background-color:#2E5090;
-    border: 1px solid white;
-    border-radius: 5px;
-    font-size: larger;
+.head{
+    color:rgb(12, 232, 232);
+    text-decoration: underline;
+    margin-bottom: 2rem;
+    font-size: 3rem;
+    font-family: 'Caveat', cursive;
 }

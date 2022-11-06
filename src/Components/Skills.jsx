@@ -22,7 +22,8 @@ const Skills =()=>{
     return (
         <Box id="skills">
             <Text size={"xl"} className={styles.head}>Skills(Tech-stacks & Tools)</Text>
-            <SimpleGrid className={styles.grid} columns={[1,null,2,4]} spacing={3}>
+            <Text className={styles.para}>These are some Tech-Stacks and tools which I usually use:</Text>
+            <SimpleGrid className={styles.grid} columns={[1,null,2,4]} spacing={5}>
                 <Box className={styles.logo_img_box}>
                     <Image className={styles.img}  src={html5} alt="logo"/>
                     <Text mt="0.5rem" color={"white"} >HTML</Text>
