@@ -3,7 +3,6 @@
     padding: 2rem;
     width: 70%;
     padding-left: 3rem;
-    /* border: 2px solid grey; */
     margin-bottom: 1rem;
     border-top-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
@@ -13,12 +12,12 @@
     margin-bottom: 1rem;
     margin-top: 3rem;
     color: white;
+    font-weight: 800;
 }
 .statsBox{
     margin: auto;
     padding: 2rem;
     width: 80%;
-    /* border: 2px solid grey; */
     border-top-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
 }

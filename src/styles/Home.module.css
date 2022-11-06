@@ -4,7 +4,7 @@
     margin: 0rem 3rem;
 }
 .welcome{
-   margin-top:  8rem;
+   margin-top:  5rem;
    color:rgb(12, 232, 232);
    font-size: 4rem;
    font-family: 'Caveat', cursive;
@@ -26,12 +26,13 @@
     height: 80%;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 3rem;
 }
 .resumeBtn{
     margin-top: 2rem;
     color: white;
     padding: 0.5rem 2rem;
-    background-color:#122c5d;
+    background-color: #002;;
     border: 1px solid white;
     border-radius: 5px;
     font-size: larger;

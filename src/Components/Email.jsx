@@ -38,7 +38,7 @@ export const Email = () => {
             <Textarea bg='white' width={"auto"} name={"message"} />
         </Box>
         <br />
-        <Input bg='#002147' className={styles.btn} width={"auto"} type="submit" value="Send Mail" />
+        <Input className={styles.btn} width={"auto"} type="submit" value="Send Mail" />
      
     </form>
     </Box>

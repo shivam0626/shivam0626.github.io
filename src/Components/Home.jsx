@@ -7,7 +7,7 @@ import resume from "../sources/Shivam-Maurya-Resume.pdf";
 export const Home = () => {
   return (
     <Box className={styles.mainBox} id="home">
-    <SimpleGrid columns={[1,null,2]} spacing="1rem" >
+    <SimpleGrid columns={[1,null,2]} spacing={1}>
     <Box className={styles.imageBox}>
         <Image className={styles.img} src={coder} alt="avatar"/>
     </Box>
