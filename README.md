@@ -1,12 +1,16 @@
+# shivam0626.github.io
+Portfolio link
 # Portfolio 
+
+## Home Page
+
+![home](https://user-images.githubusercontent.com/101569590/200590478-db5ca2fa-fe9a-471a-b242-c346660a0843.PNG)
 
 ## About me 
 
-Hey I am Shivam Maurya...
-
 I am an aspiring full-stack web developer with hands-on experience in developing user-centric web apps. I did a full-stack web developer course at Masai School, where I learned 1000+ hours of coding. I am looking for an opportunity to enhance my knowledge.
 
-![about](https://user-images.githubusercontent.com/101569590/190901478-570f917e-fcfa-4560-990f-7cf142625e32.PNG)
+![about](https://user-images.githubusercontent.com/101569590/200590595-af0073a3-3f16-44f6-8e3a-392d3d0c3a0d.PNG)
 
 
 ## Skills 
@@ -19,16 +23,15 @@ There are some skills which I learned during my Full-Stack web development cours
  - MongoDB
  - NodeJs
  - Redux
- - ExpressJS
+ - ExpressJs
  - Github
  - Chakra UI
  - JSON Server  
-
-
+ - NextJs
+ - Redis
  
- ![skills](https://user-images.githubusercontent.com/101569590/190901488-441c9762-1f40-4671-a44f-5308848cc49c.PNG)
+![skills](https://user-images.githubusercontent.com/101569590/200590831-e902f6fc-f898-4be8-b295-968069acffdc.PNG)
 
- 
 
 ## Projects 
 Here are some projects, which I did during course:
@@ -43,7 +46,14 @@ Here are some projects, which I did during course:
  - TimeCamp Clone
     https://github.com/ssksds/Time-Camp-Clone
     
-  ![projects](https://user-images.githubusercontent.com/101569590/193472145-0ba7903a-95e5-402a-a0fc-64c28b7d6a43.PNG)
+    
+![projects](https://user-images.githubusercontent.com/101569590/200590990-00cff87f-e710-4cdf-a736-c163a735e3cc.PNG)
+ 
+## GitHub Stats
+
+
+![github stats](https://user-images.githubusercontent.com/101569590/200591185-ec392177-8d8a-4d28-9463-083d3289be68.PNG)
+
 
 ## Contact me on:
 
