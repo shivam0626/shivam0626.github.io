@@ -1,4 +1,4 @@
-import { Box, Text, Image, SimpleGrid } from "@chakra-ui/react";
+import { Box, Text, Image, SimpleGrid} from "@chakra-ui/react";
 import GitHubCalendar from "react-github-calendar";
 import ReactTooltip from "react-tooltip";
 import styles from "../styles/GithubCalendar.module.css"
