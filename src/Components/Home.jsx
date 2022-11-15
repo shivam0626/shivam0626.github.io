@@ -15,7 +15,7 @@ export const Home = () => {
         <Text  className={styles.welcome}>Hey, I am Shivam Maurya.</Text>
         <Text fontSize="2rem" color={'white'}>Full-Stack Web Developer</Text>
         <Text color={'white'}>A computer enthusiast who loves creating websites and exploring emerging web technologies.</Text>
-          <a  href={"https://drive.google.com/file/d/1N8u-FjHCRGhXKcjtRTBCPSbmEzpBHqxl/view?usp=sharing"} target ="blank" ><button className={styles.resumeBtn}>Preview Resume</button></a>
+          <a  href={"https://drive.google.com/file/d/1N8u-FjHCRGhXKcjtRTBCPSbmEzpBHqxl/view?usp=sharing"} target ="blank" ><button className={styles.prevBtn}>Preview Resume</button></a>
           <a style={{marginLeft:"1rem"}} href={resume} download={resume}><button className={styles.resumeBtn}>Download Resume</button></a>
     </Box>
     </SimpleGrid>

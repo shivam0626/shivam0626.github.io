@@ -31,6 +31,17 @@
 .resumeBtn{
     margin-top: 2rem;
     color: white;
+    padding: 0.5rem 1.5rem;
+    background-color: #002;;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: larger;
+    margin-left: auto;
+    margin-right: auto;
+}
+.prevBtn{
+    margin-top: 2rem;
+    color: white;
     padding: 0.5rem 2rem;
     background-color: #002;;
     border: 1px solid white;
