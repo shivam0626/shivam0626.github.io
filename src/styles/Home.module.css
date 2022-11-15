@@ -36,7 +36,7 @@
     border: 1px solid white;
     border-radius: 5px;
     font-size: larger;
-    margin-left: auto;
+    margin-left: 0.5rem;
     margin-right: auto;
 }
 .prevBtn{
@@ -47,6 +47,6 @@
     border: 1px solid white;
     border-radius: 5px;
     font-size: larger;
-    margin-left: auto;
+    margin-left: 0.5rem;
     margin-right: auto;
 }

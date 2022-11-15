@@ -6,7 +6,8 @@
     margin-bottom: 1rem;
     border-top-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
-    background-color: aliceblue;
+    background-color:aliceblue;
+    border: 2px solid gray;
 }
 .para{
     font-size: 1.5rem;
@@ -19,7 +20,7 @@
 .statsBox{
     margin: auto;
     padding: 2rem;
-    width: 80%;
+    width: 70%;
     border-top-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
 }

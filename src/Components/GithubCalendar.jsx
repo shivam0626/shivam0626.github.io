@@ -30,14 +30,14 @@ const GithubCalendar =()=>{
                 blockSize={18}
                 fontSize={16}
                 showWeekdayLabels
-                hideTotalCount
                 hideColorLegend
+                color={"blue"}
             >
             <ReactTooltip delayShow={20} html />
             </GitHubCalendar>
         </Box> 
         {/* <Text className={styles.para}>Stats</Text> */}
-        <SimpleGrid columns={[1,null,1,2]} spacing={2} className={styles.statsBox}>
+        <SimpleGrid columns={[1,null,1,2]} spacing={3} className={styles.statsBox}>
             <Image src="https://github-readme-streak-stats.herokuapp.com/?user=shivam0626&" alt="shivam0626" />
             <Image  src="https://github-readme-stats.vercel.app/api?username=shivam0626&show_icons=true&locale=en" alt="shivam0626" />
         </SimpleGrid>
