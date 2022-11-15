@@ -29,7 +29,6 @@ const GithubCalendar =()=>{
                 transformData={selectLastHalfYear}
                 blockSize={18}
                 fontSize={16}
-                color='rgb(12, 232, 232)'
                 showWeekdayLabels
                 hideTotalCount
                 hideColorLegend

@@ -6,7 +6,7 @@ const Navbar = () =>{
     return(
         <Box columns={[1,null,2]} className={styles.main_navbar} id="top">
             <Box >
-                <Link  to="#"><Text className={styles.logo}>PortFolio</Text></Link>
+                <Link  to="#"><Text className={styles.logo}>ShivamM</Text></Link>
             </Box>
             <Box className={styles.nav_box2}>
                 <Link to="#" smooth><Text size={"sm"}>Home</Text></Link>

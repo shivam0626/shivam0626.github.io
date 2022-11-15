@@ -1,11 +1,12 @@
 .mainBox{
     margin: auto;
-    padding: 2rem;
+    padding: 2rem 3rem;
     width: 70%;
     padding-left: 3rem;
     margin-bottom: 1rem;
     border-top-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
+    background-color: aliceblue;
 }
 .para{
     font-size: 1.5rem;

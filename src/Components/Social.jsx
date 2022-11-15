@@ -7,7 +7,6 @@ import styles from "../styles/Social.module.css";
 export const Social = () => {
   return (
     <Box className={styles.container}>
-    <Text size={"md"}>More Contacts :</Text>
     <Box className={styles.box}>
         <a href="https://github.com/shivam0626" target="blank"><FaGithub /></a>
         <a href="https://www.linkedin.com/in/shivam-maurya-5131331b6/" target="blank"><FaLinkedin /></a>
