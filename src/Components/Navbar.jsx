@@ -1,7 +1,6 @@
 import { Box, Text } from "@chakra-ui/react";
 import { HashLink as Link } from "react-router-hash-link";
 import styles from "../styles/Navbar.module.css";
-import resume from "../sources/Shivam-Maurya-Resume.pdf";
 
 const Navbar = () =>{
     return(
@@ -15,7 +14,7 @@ const Navbar = () =>{
                 <Link to="#skills" smooth><Text size={"sm"}>Skills</Text></Link>
                 <Link to="#projects" smooth><Text size={"sm"}>Projects</Text></Link>
                 <Link to="#contact" smooth><Text size={"sm"}>Contact me</Text></Link>
-                <a  href={resume} download={resume}><button className={styles.resumeBtn}>Resume</button></a>
+                <a  href={"https://drive.google.com/file/d/1N8u-FjHCRGhXKcjtRTBCPSbmEzpBHqxl/view?usp=sharing"} target ="blank" ><button className={styles.resumeBtn}>Resume</button></a>
             </Box>
         </Box>
     )
