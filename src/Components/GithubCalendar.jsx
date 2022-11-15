@@ -30,6 +30,7 @@ const GithubCalendar =()=>{
                 blockSize={18}
                 fontSize={16}
                 showWeekdayLabels
+                hideTotalCount
                 hideColorLegend
                 color={"blue"}
             >
