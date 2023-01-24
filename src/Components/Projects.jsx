@@ -49,7 +49,7 @@ const Projects =()=>{
                     <Text className={styles.text}>Duration: 05 days</Text>
                     <Box p="1rem">
                         <a href="https://jcrew-clone-0626.netlify.app" target="blank" rel="noreferrer"><button className={styles.btn}><FaExternalLinkAlt /></button></a>
-                        <a href="https://github.com/Prakarshprasar/J.Crew-Clone" target="blank" rel="noreferrer"><button className={styles.btn}><FaGithub /></button></a>
+                        <a href="https://github.com/Raghav435/J.Crew_Clone" target="blank" rel="noreferrer"><button className={styles.btn}><FaGithub /></button></a>
                     </Box>
                 </Box>
                 <Box className={styles.p_box}>
