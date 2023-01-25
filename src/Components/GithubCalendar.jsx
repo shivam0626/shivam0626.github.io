@@ -26,7 +26,7 @@ const GithubCalendar =()=>{
         <Box className={styles.mainBox}>
             <GitHubCalendar 
                 username="shivam0626" 
-                transformData={selectLastHalfYear}
+                // transformData={selectLastHalfYear}
                 blockSize={18}
                 fontSize={16}
                 showWeekdayLabels
