@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.13c1c2d0.css",
-    "main.js": "/static/js/main.6f296388.js",
+    "main.js": "/static/js/main.54e846c2.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/fundamental.PNG": "/static/media/fundamental.09885e28f5cd5a058895.PNG",
     "static/media/Jcrew.PNG": "/static/media/Jcrew.7da3f201cbc5057e4414.PNG",
@@ -12,7 +12,7 @@
     "static/media/profile.png": "/static/media/profile.b60409cb80cbff7e61c9.png",
     "static/media/mongodb.png": "/static/media/mongodb.5b3b1548fc3d3ab2bcbf.png",
     "static/media/React-icon.svg.png": "/static/media/React-icon.svg.81ed438b18e24116794d.png",
-    "static/media/Shivam-Maurya-Resume.pdf": "/static/media/Shivam-Maurya-Resume.6c758e2512cee0985072.pdf",
+    "static/media/Shivam-Maurya-Resume.pdf": "/static/media/Shivam-Maurya-Resume.b6a193cd018661450025.pdf",
     "static/media/json.png": "/static/media/json.aede29f1285900b31ef1.png",
     "static/media/express.png": "/static/media/express.cca64e0f360897258ecb.png",
     "static/media/dsa.png": "/static/media/dsa.0735e9298636d7e0059d.png",
@@ -28,11 +28,11 @@
     "static/media/typescript-1174965.webp": "/static/media/typescript-1174965.c3bd19569a9c73bb54ba.webp",
     "index.html": "/index.html",
     "main.13c1c2d0.css.map": "/static/css/main.13c1c2d0.css.map",
-    "main.6f296388.js.map": "/static/js/main.6f296388.js.map",
+    "main.54e846c2.js.map": "/static/js/main.54e846c2.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13c1c2d0.css",
-    "static/js/main.6f296388.js"
+    "static/js/main.54e846c2.js"
   ]
 }
