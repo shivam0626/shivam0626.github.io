@@ -4,22 +4,22 @@ import ReactTooltip from "react-tooltip";
 import styles from "../styles/GithubCalendar.module.css"
 
 const GithubCalendar =()=>{
-    const selectLastHalfYear = contributions => {
-        const currentYear = new Date().getFullYear();
-        const currentMonth = new Date().getMonth();
-        const shownMonths = 9;
+    // const selectLastHalfYear = contributions => {
+    //     const currentYear = new Date().getFullYear();
+    //     const currentMonth = new Date().getMonth();
+    //     const shownMonths = 9;
       
-        return contributions.filter(day => {
-          const date = new Date(day.date);
-          const monthOfDay = date.getMonth();
+    //     return contributions.filter(day => {
+    //       const date = new Date(day.date);
+    //       const monthOfDay = date.getMonth();
       
-          return (
-            date.getFullYear() === currentYear &&
-            monthOfDay > currentMonth - shownMonths &&
-            monthOfDay <= currentMonth
-          );
-        });
-      };
+    //       return (
+    //         date.getFullYear() === currentYear &&
+    //         monthOfDay > currentMonth - shownMonths &&
+    //         monthOfDay <= currentMonth
+    //       );
+    //     });
+    //   };
     return (
     <Box>
         <Text className={styles.para}>GitHub Calendar</Text>
