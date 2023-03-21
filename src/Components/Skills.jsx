@@ -14,84 +14,84 @@ import chakra from "../sources/chakra.webp";
 import vscode from "../sources/vs code.png";
 import postman from "../sources/postman.png";
 import json from "../sources/json.png";
-import redis from "../sources/redis.png";
 import typescript from "../sources/typescript-1174965.webp";
-import socketio from "../sources/socketio.webp";
-
 const Skills =()=>{
+    const skills =[
+        {
+            name: "HTML",
+            icon: html5
+        },
+        {
+            name: "CSS",
+            icon: css3
+        },
+        {
+            name: "JavaScript",
+            icon: jsl
+        },
+        {
+            name: "TypeScript",
+            icon: typescript
+        },
+        {
+            name: "ReactJs",
+            icon: rct
+        },
+        {
+            name: "MongoDB",
+            icon: mdb
+        },
+        {
+            name: "NodeJs",
+            icon: nodel
+        },
+        {
+            name: "Redux",
+            icon: redux
+        },
+        {
+            name: "ExpressJs",
+            icon: express
+        },
+        {
+            name: "Chakra UI",
+            icon: chakra
+        },
+        {
+            name: "JSON Server" ,
+            icon: json
+        },
+        {
+            name: "Data Structure",
+            icon: dsa
+        },
+        {
+            name: "GitHub" ,
+            icon: github
+        },
+        {
+            name: "VS Code",
+            icon: vscode
+        },
+        {
+            name: "Postman",
+            icon: postman
+        },
+    ]
+    
     return (
         <Box id="skills">
             <Text size={"xl"} className={styles.head}>Skills(Tech-stacks & Tools)</Text>
             <Text className={styles.para}>These are some Tech-Stacks and tools which I usually use:</Text>
-            <SimpleGrid className={styles.grid} columns={[1,null,2,4]} spacing={5}>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img}  src={html5} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"} >HTML</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={css3} alt="logo" />
-                    <Text mt="0.5rem" color={"white"}  >CSS</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={jsl} alt="logo" />
-                    <Text  mt="0.5rem" color={"white"} >JavaScript</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={typescript} alt="logo" />
-                    <Text  mt="0.5rem" color={"white"} >TypeScript</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>   
-                    <Image className={styles.img} src={rct} alt="logo" />
-                    <Text mt="1rem" color={"white"}  >React Js</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={mdb} alt="logo"  />
-                    <Text mt="0.5rem" color={"white"}  >MongoDB</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={nodel} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"}  >NodeJs</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={redux} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"}  >Redux</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={express} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"}  >Express Js</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={chakra} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"}  >Chakra UI</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={json} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"}  >JSON Server</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={redis} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"}  >Redis</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={socketio} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"}  >SocketIO</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={dsa} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"}  >Data Structures</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={github} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"}  >GitHub</Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={vscode} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"}  >VS Code </Text>
-                </Box>
-                <Box className={styles.logo_img_box}>
-                    <Image className={styles.img} src={postman} alt="logo"/>
-                    <Text mt="0.5rem" color={"white"}  >Postman</Text>
-                </Box>
+            <SimpleGrid className={styles.grid} columns={[1,null,2,5]} spacing={5}>
+                {
+                    skills.map((s)=>(
+                        <Box className={styles.logo_img_box} key={s.name}>
+                            <Image className={styles.img} src={s.icon} alt="logo"/>
+                            <Text mt="0.5rem" color={"white"}  >{s.name}</Text>
+                        </Box>
+                    ))
+                }
             </SimpleGrid>
         </Box>
     )
