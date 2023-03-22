@@ -5,6 +5,7 @@ import kimaye from "../sources/kimaye.PNG";
 import sephora from "../sources/sephora.PNG";
 import fundamental from "../sources/fundamental.PNG";
 import timecamp from "../sources/time-camp.PNG";
+import weather from "../sources/weather.PNG";
 import {FaGithub,FaExternalLinkAlt} from "react-icons/fa";
 
 const Projects =()=>{
@@ -54,11 +55,22 @@ const Projects =()=>{
             git_link: "https://github.com/VishalBhuse/Fundamental.in"
         },
         {
+            p_name: "Weather-app",
+            details: "This website can be use for fetch real-time weather information.",
+            techs: "Tech-stacks: ReactJs, Tailwind CSS",
+            type: "Individaul Project",
+            responsibity: "Area of Responsibilty: All functionalities",
+            duration: "Duration: 03 days",
+            image: weather,
+            project_link: "https://weather-app-drab-omega-45.vercel.app/",
+            git_link: "https://github.com/shivam0626/weather-app"
+        },
+        {
             p_name: "Kimaye.com Clone",
             details: "A Grocery website where fresh fruits are available.",
             techs: "Tech-stacks: HTML, CSS, JavaScript",
             type: "Individaul Project",
-            responsibity: "Area of Responsibilty: Products Page",
+            responsibity: "Area of Responsibilty: All functionalities",
             duration: "Duration: 05 days",
             image: kimaye,
             project_link: "https://shivam0626.github.io/Kimaye.com-Clone/",
@@ -70,7 +82,7 @@ const Projects =()=>{
         <Box className={styles.p_main} id="projects">
             <Text className={styles.header} size={"xl"}>Projects</Text>
             <Text className={styles.toptext}>These are some projects done by me:</Text>
-            <SimpleGrid m="0rem 3rem" columns={[1,null,2]} spacing={6} >
+            <SimpleGrid m="0rem 2rem" columns={[1,null,2,3]} spacing={6} >
                 {
                 data.map((d)=>(
                     <Box className={styles.p_box}>
