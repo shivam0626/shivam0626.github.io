@@ -4,25 +4,25 @@
     margin: 0rem 3rem;
 }
 .welcome{
-   margin-top:  5rem;
+   margin-top:  2rem;
    color:white;
    font-size: 4rem;
+   line-height: 4rem;
    font-family: 'Caveat', cursive;
 }
 .img{
-    height: 80vh;
+    padding-top: 5rem;
     border-radius: 8px;
-    margin: auto;
 }
 .intro{
     margin-top: 5rem;
     text-decoration: underline;
 }
 .headingBox{
-    height: 80vh;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 3rem;
+    padding-top: 1.5rem;
+    padding-bottom: 0.5rem;
 }
 .resumeBtn{
     margin-top: 2rem;
