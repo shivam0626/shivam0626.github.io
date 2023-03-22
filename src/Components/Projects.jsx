@@ -81,7 +81,7 @@ const Projects =()=>{
     return(
         <Box className={styles.p_main} id="projects">
             <Text className={styles.header} size={"xl"}>Projects</Text>
-            <Text className={styles.toptext}>These are some projects done by me:</Text>
+            <Text className={styles.toptext}>These are some interesting projects done by me:</Text>
             <SimpleGrid m="0rem 2rem" columns={[1,null,2,3]} spacing={6} >
                 {
                 data.map((d)=>(

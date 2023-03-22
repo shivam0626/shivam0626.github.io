@@ -82,7 +82,7 @@ const Skills =()=>{
     return (
         <Box id="skills">
             <Text size={"xl"} className={styles.head}>Skills(Tech-stacks & Tools)</Text>
-            <Text className={styles.para}>These are some Tech-Stacks and tools which I usually use:</Text>
+            <Text className={styles.para}>These are some tech-stacks and tools, I included in my projects:</Text>
             <SimpleGrid className={styles.grid} columns={[1,null,2,5]} spacing={5}>
                 {
                     skills.map((s)=>(

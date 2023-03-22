@@ -16,9 +16,9 @@
 
 }
 .head{
-    color:rgb(12, 232, 232);
+    color:white;
     text-decoration: underline;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     font-size: 3rem;
     font-family: 'Caveat', cursive;
 }

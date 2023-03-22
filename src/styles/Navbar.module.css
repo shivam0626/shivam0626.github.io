@@ -4,7 +4,8 @@
     gap: 2rem;
     padding: 1rem;
     justify-content: space-evenly;
-    background-color:#002;
+    background-color: rgb(29, 0, 34);
+    ;
     color: #ffff;
     box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
     position: fixed;

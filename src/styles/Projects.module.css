@@ -12,7 +12,7 @@
     border: 3px solid rgb(130, 126, 126);
 }
 .header{
-    color:rgb(12, 232, 232);
+    color:white;
     text-decoration: underline;
     margin-bottom: 2rem;
     font-family: 'Caveat', cursive;
@@ -20,7 +20,7 @@
     font-size: 3rem;
 }
 .project_title{
-    color:rgb(12, 232, 232);
+    color:white;
     margin-bottom: 0.5rem;
     font-family: 'Caveat', cursive; 
     margin-top: 1rem;
@@ -44,7 +44,7 @@
 .btn {
     color: white;
     padding: 0.5rem 2rem;
-    background-color:#002;
+    background-color:rgb(29, 0, 34);
     border: 1px solid white;
     border-radius: 5px;
     margin-left: 1rem;

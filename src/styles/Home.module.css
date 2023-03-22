@@ -5,13 +5,12 @@
 }
 .welcome{
    margin-top:  5rem;
-   color:rgb(12, 232, 232);
+   color:white;
    font-size: 4rem;
    font-family: 'Caveat', cursive;
-
 }
 .img{
-    height: 80%;
+    height: 80vh;
     border-radius: 8px;
     margin: auto;
 }
@@ -19,11 +18,8 @@
     margin-top: 5rem;
     text-decoration: underline;
 }
-.imageBox{
-    margin: 0;
-}
 .headingBox{
-    height: 80%;
+    height: 80vh;
     margin-left: auto;
     margin-right: auto;
     padding-top: 3rem;
@@ -32,7 +28,7 @@
     margin-top: 2rem;
     color: white;
     padding: 0.5rem 1.5rem;
-    background-color: #002;;
+    background-color: rgb(29, 0, 34);
     border: 1px solid white;
     border-radius: 5px;
     font-size: larger;
@@ -43,7 +39,7 @@
     margin-top: 2rem;
     color: white;
     padding: 0.5rem 2rem;
-    background-color: #002;;
+    background-color: rgb(29, 0, 34);
     border: 1px solid white;
     border-radius: 5px;
     font-size: larger;
