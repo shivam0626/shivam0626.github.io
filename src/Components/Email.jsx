@@ -39,7 +39,6 @@ export const Email = () => {
         </Box>
         <br />
         <Input className={styles.btn} width={"auto"} type="submit" value="Send Mail" />
-     
     </form>
     </Box>
   )

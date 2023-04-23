@@ -18,11 +18,11 @@ import typescript from "../sources/typescript-1174965.webp";
 const Skills =()=>{
     const skills =[
         {
-            name: "HTML",
+            name: "HTML5",
             icon: html5
         },
         {
-            name: "CSS",
+            name: "CSS3",
             icon: css3
         },
         {
@@ -81,14 +81,14 @@ const Skills =()=>{
     
     return (
         <Box id="skills">
-            <Text size={"xl"} className={styles.head}>Skills(Tech-stacks & Tools)</Text>
-            <Text className={styles.para}>These are some tech-stacks and tools, I included in my projects:</Text>
+            <Text size={"xl"} className={styles.head}>Tech Stack Summary</Text>
+            <Text className={styles.para}>These are some tech stacks and tools, which I have utilized in my projects.</Text>
             <SimpleGrid className={styles.grid} columns={[2,null,3,6]} spacing={5}>
                 {
                     skills.map((s)=>(
                         <Box className={styles.logo_img_box} key={s.name}>
                             <Image className={styles.img} src={s.icon} alt="logo"/>
-                            <Text mt="0.5rem" color={"white"}  >{s.name}</Text>
+                            <Text mt="0.5rem" fontSize={'1.2rem'} color={"white"}  >{s.name}</Text>
                         </Box>
                     ))
                 }

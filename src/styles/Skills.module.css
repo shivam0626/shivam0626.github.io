@@ -19,14 +19,18 @@
     text-decoration: underline;
     margin-bottom: 1rem;
     font-size: 3rem;
-    font-family: 'Caveat', cursive;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
 }
 .grid{
     margin: 0rem 5rem;
 }
 .para{
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     text-align: center;
     margin-bottom: 2rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    line-height: 1;
 }

@@ -7,8 +7,11 @@ const Welcome =()=>{
              <Text size={"xl"} className={styles.head}>About me</Text>
             <SimpleGrid columns={[1,null,2]} spacing="1rem" >
             <Box className={styles.headingBox}>
-                <Text mt="1rem" size={"md"} className={styles.para}>I am an aspiring full-stack web developer with hands-on experience in developing user-centric web apps. I did a full-stack web developer course at Masai School, where I learned 1000+ hours of coding.
-                 I am looking for an opportunity to work with a company where I can use my knowledge towards the growth of the company.</Text>
+                <Text mt="1rem" size={"md"} className={styles.para}>Hello! My name is Shivam Maurya and I am a passionate full-stack developer.
+                With a strong foundation in both front-end and back-end development, I am excited to contribute to projects that require a full-stack approach.
+                My attention to detail, problem-solving abilities, and collaborative mindset make me a valuable asset to any development team.
+                I am dedicated to delivering high-quality code that meets project requirements and exceeds expectations, while also prioritizing user experience and accessibility.
+                </Text>
             </Box>
             <Box className={styles.imageBox}>
                 <Image className={styles.img} src={profile} alt="avatar"/>
