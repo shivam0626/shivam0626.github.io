@@ -23,7 +23,7 @@ const links = [
   },
   {
     to:"#contact",
-    label:"Contact"
+    label:"Contact Me"
   }
 ];
 

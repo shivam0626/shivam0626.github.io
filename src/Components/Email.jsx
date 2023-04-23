@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
-import { Box, Input, Text, Textarea } from '@chakra-ui/react';
+import { Box, Input, Text } from '@chakra-ui/react';
 import styles from "../styles/Email.module.css";
 
 

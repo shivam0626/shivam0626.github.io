@@ -9,6 +9,7 @@
     position: fixed;
     margin-bottom: 3rem;
     width: 100%;
+    font-family: 'Caveat', cursive;
 }
 .nav_box2{
     display: flex;
@@ -18,10 +19,9 @@
     position: relative;
 }
 .logo{
-    font-family: 'Caveat', cursive;
     font-size: 2rem;
     font-weight: 800;
-    margin-left: 6rem;
+    margin-left: 3rem;
 }
 .hamburger{
     text-align: center;
@@ -33,7 +33,7 @@
     top: 0;
     left: 0;
     width: 100vw;
-    height: 45vh;
+    height: 35vh;
     background-color:rgb(41, 5, 44) ;
     z-index: 20;
     overflow-y: auto;
