@@ -38,8 +38,8 @@ const Navbar = () => {
       <Box>
         <Flex className={styles.nav_box2} display={{base:'none',md:'flex'}}>
           {links?.map((link)=>(
-            <Link key ={link.to} to={link.to} smooth>
-              {link.label}
+            <Link key ={link.to} to={link.to} className={styles.nav_link} smooth>
+                {link.label}
             </Link>
           ))}
         </Flex>
@@ -67,7 +67,7 @@ const Navbar = () => {
           mt='3rem'>
           <Flex direction={'column'} align='center' gap={'1rem'} fontSize={'1.5rem'}>
             {links?.map((link)=>(
-              <Link key ={link.to} to={link.to} smooth>
+              <Link key ={link.to} to={link.to} className={styles.nav_link} smooth>
                 {link.label}
               </Link>
             ))}

@@ -18,30 +18,36 @@
     text-decoration: underline;
 }
 .headingBox{
-    margin-left: auto;
-    margin-right: auto;
     padding-top: 1.5rem;
     padding-bottom: 0.5rem;
 }
-.resumeBtn{
+.btn_box{
+    display: flex;
     margin-top: 2rem;
+    gap: 1rem;
+    justify-content: center;
+}
+.resumeBtn{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
     color: white;
     padding: 0.5rem 1.5rem;
     background-color: rgb(29, 0, 34);
     border: 1px solid white;
     border-radius: 5px;
     font-size: larger;
-    margin-left: 0.5rem;
-    margin-right: auto;
 }
 .prevBtn{
-    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
     color: white;
     padding: 0.5rem 2rem;
     background-color: rgb(29, 0, 34);
     border: 1px solid white;
     border-radius: 5px;
     font-size: larger;
-    margin-left: 0.5rem;
-    margin-right: auto;
 }
