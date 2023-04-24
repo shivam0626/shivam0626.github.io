@@ -1,11 +1,11 @@
 .mainBox{
     margin: auto;
     padding: 2rem 3rem;
-    width: 70%;
+    width: 80%;
     padding-left: 3rem;
     margin-bottom: 1rem;
-    border-top-left-radius: 1rem;
-    border-bottom-right-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
     background-color:aliceblue;
     border: 2px solid gray;
 }
@@ -18,9 +18,9 @@
     font-weight: 800;
 }
 .statsBox{
+    width: 90%;
     margin: auto;
-    padding: 2rem;
-    width: 70%;
+    padding: 2rem 5rem;
     border-top-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
 }
