@@ -1,8 +1,8 @@
 .mainBox{
     margin: auto;
-    padding: 2rem 3rem;
-    width: 80%;
-    padding-left: 3rem;
+    padding: 1rem;
+    width: 80vw;
+    padding-left: 2rem;
     margin-bottom: 1rem;
     border-top-right-radius: 1rem;
     border-bottom-left-radius: 1rem;
@@ -18,9 +18,12 @@
     font-weight: 800;
 }
 .statsBox{
-    width: 90%;
     margin: auto;
-    padding: 2rem 5rem;
+    width:80vw;
+}
+.stats{
+    margin: auto;
+    padding: 2rem;
     border-top-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
 }

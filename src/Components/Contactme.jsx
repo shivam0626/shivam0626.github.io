@@ -7,7 +7,7 @@ export const Contactme = () => {
   return (
     <Box className={styles.mainBox} id="contact">
     <Container pb="1.5rem"  maxW={"5xl"}>
-        <Text className={styles.contact}>Contact me:</Text>
+        <Text className={styles.contact}>Contact me</Text>
         <SimpleGrid columns={[1,null,2]}>
             <Email />
             <Social />

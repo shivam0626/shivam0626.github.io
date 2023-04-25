@@ -32,16 +32,17 @@ const GithubCalendar =()=>{
                 showWeekdayLabels
                 hideTotalCount
                 hideColorLegend
-                color={"blue"}
+                color={"green"}
             >
             <ReactTooltip delayShow={20} html />
             </GitHubCalendar>
         </Box> 
-        {/* <Text className={styles.para}>Stats</Text> */}
-        <SimpleGrid columns={[1,null,1,2]} spacing={3} className={styles.statsBox}>
+        <Box className={styles.statsBox}>
+        <SimpleGrid columns={[1,null,1,2]} spacing={5} className={styles.stats}>
             <Image src="https://github-readme-streak-stats.herokuapp.com/?user=shivam0626&" alt="shivam0626" />
             <Image  src="https://github-readme-stats.vercel.app/api?username=shivam0626&show_icons=true&locale=en" alt="shivam0626" />
         </SimpleGrid>
+        </Box>
     </Box>
     )
 }
