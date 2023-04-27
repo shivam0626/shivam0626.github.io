@@ -14,7 +14,7 @@ export const Contactme = () => {
         </SimpleGrid>
     </Container>
     <Divider />
-    <Text pt="10px" color={"white"}>© 2023 All rights reserved.</Text>
+    <Text pt="10px" fontSize='1.2rem' color={"white"}>&copy; {new Date().getFullYear()} | All rights reserved.</Text>
     </Box>
   )
 }
