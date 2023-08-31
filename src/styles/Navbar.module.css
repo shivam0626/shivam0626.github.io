@@ -9,6 +9,7 @@
     position: fixed;
     margin-bottom: 3rem;
     width: 100%;
+    z-index: 99;
     font-family: 'Caveat', cursive;
 }
 .nav_box2{
